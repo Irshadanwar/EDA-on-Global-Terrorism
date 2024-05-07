@@ -6,5 +6,5 @@ I have shared a link to my Google Colab file so that you can review my code by v
 # https://colab.research.google.com/drive/1pz2KDSUZCUaQW3sVnWXeZhQABNvSlIgc?usp=sharing
 
 # Thank you 
-connect with me on linkedin:
+Connect with me on linkedin:
 # https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/
